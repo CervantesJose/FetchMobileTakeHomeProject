@@ -2,10 +2,9 @@
 #### Created by Jose Cervantes
 
 ### Summary: Screen shots
-![DetailView](https://github.com/user-attachments/assets/f31b5c3a-78a6-4f69-9562-24569faaeaa1)
-![RecipeView](https://github.com/user-attachments/assets/fb7d1edd-09ed-4499-81e1-ed559854c25a)
 ![CodeCoverage](https://github.com/user-attachments/assets/3ced7058-3425-491c-8c4f-94f60f2e721f)
-
+![RecipeView](https://github.com/user-attachments/assets/fb7d1edd-09ed-4499-81e1-ed559854c25a)
+![DetailView](https://github.com/user-attachments/assets/f31b5c3a-78a6-4f69-9562-24569faaeaa1)
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 I chose to prioritize the professional implementation of the NetworkManager and ImageCacheFetcher as they were the core logic for this app.
